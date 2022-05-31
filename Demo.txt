@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 slava 
 Ukraine
+=======
+Slava
+Ukraine
+Heroem
+Slava
+>>>>>>> 80903dc2a503a33f48118c273840086d8aecbb69
