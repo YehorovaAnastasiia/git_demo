@@ -10,5 +10,5 @@ aaaaaa
 zzzzz
 wwwww
 
-2.06
+----------
 
